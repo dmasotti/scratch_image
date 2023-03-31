@@ -12,7 +12,7 @@ Widget monarch_purple() => Center(
         child: Column(children: [
       SizedBox(
         width: 350,
-        child:
-            Image.asset('assets/monarch_purple.png', package: 'scratch_image_core'),
+        child: Image.asset('assets/monarch_purple.png',
+            package: 'scratch_image_core'),
       ),
     ]));
